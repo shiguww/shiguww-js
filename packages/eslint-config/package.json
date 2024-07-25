@@ -1,0 +1,20 @@
+{
+  "type": "module",
+  "main": "index.js",
+  "version": "0.0.1",
+  "packageManager": "pnpm@9.6.0",
+  "name": "@shiguww/eslint-config",
+  "devDependencies": {
+    "@types/eslint__js": "^8.42.3"
+  },
+  "repository": {
+    "type": "git",
+    "directory": "packages/eslint-config",
+    "url": "https://github.com/shiguww/shiguww-js"
+  },
+  "peerDependencies": {
+    "eslint": ">=9",
+    "typescript": "^5.5.4",
+    "typescript-eslint": "^7.17.0"
+  }
+}

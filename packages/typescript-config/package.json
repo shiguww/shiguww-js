@@ -1,0 +1,13 @@
+{
+  "version": "1.0.1",
+  "packageManager": "pnpm@9.6.0",
+  "name": "@shiguww/typescript-config",
+  "peerDependencies": {
+    "typescript": "^5.5.4"
+  },
+  "repository": {
+    "type": "git",
+    "directory": "packages/typescript-config",
+    "url": "https://github.com/shiguww/shiguww-js"
+  }
+}

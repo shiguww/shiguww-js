@@ -1,0 +1,13 @@
+{
+  "type": "module",
+  "main": "index.js",
+  "version": "0.0.1",
+  "types": "index.d.ts",
+  "name": "@shiguww/obtainable",
+  "packageManager": "pnpm@9.6.0",
+  "repository": {
+    "type": "git",
+    "directory": "packages/obtainble",
+    "url": "https://github.com/shiguww/shiguww-js"
+  }
+}
